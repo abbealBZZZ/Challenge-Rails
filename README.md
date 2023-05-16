@@ -26,6 +26,7 @@ Type de champs attendus :
 - checkbox,
 - checkboxes (multi choice)
 - select  
+
 Chaque champ doit être capable d’avoir ses propres attribues html:
 - les hint
 - les placeholders
