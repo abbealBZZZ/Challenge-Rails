@@ -1,6 +1,6 @@
 # ♦️ Challenge Ruby On Rails ♦️
 ## Pitch : App de gestion formulaires 🚀
-L'idée principale est de pouvoir créer plusieurs formulaires, avec des champs différents (ex: google form).
+L'idée principale est de pouvoir créer plusieurs formulaires, avec des champs différents (ex: google form, typeForm etc...).
 \
   Sur une stack de votre choix (rails monolithe ou Rails + Framework JS), implémenter un système de gestion de formulaire administrable.    
 
