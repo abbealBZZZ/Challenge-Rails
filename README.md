@@ -18,14 +18,18 @@ L'idée principale est de pouvoir créer plusieurs formulaires, avec des champs 
 
 Faite preuve de votre savoir faire *(Ex: Nested Fields, Single Table Inheritance (STI), macro-prog...)*. 
 
-Type de champs attendus :
-- text,
+![me](https://media.giphy.com/media/26DOs997h6fgsCthu/giphy.gif)
+
+-----------------------------------------------------------------
+
+Voici les type de champs attendus :
+- Text,
 - Email
-- integer,
-- radio,
-- checkbox,
-- checkboxes (multi choice)
-- select  
+- Integer,
+- Radio,
+- Checkbox,
+- Checkboxes (multi choice)
+- Select  
 
 Chaque champ doit être capable d’avoir ses propres attribues html:
 - les hint
